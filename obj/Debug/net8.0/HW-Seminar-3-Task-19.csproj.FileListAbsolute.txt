@@ -1,0 +1,15 @@
+C:\!Results\IT HW\C#\Homeworks\third\HW-Seminar-3-Task-19\bin\Debug\net8.0\HW-Seminar-3-Task-19.exe
+C:\!Results\IT HW\C#\Homeworks\third\HW-Seminar-3-Task-19\bin\Debug\net8.0\HW-Seminar-3-Task-19.deps.json
+C:\!Results\IT HW\C#\Homeworks\third\HW-Seminar-3-Task-19\bin\Debug\net8.0\HW-Seminar-3-Task-19.runtimeconfig.json
+C:\!Results\IT HW\C#\Homeworks\third\HW-Seminar-3-Task-19\bin\Debug\net8.0\HW-Seminar-3-Task-19.dll
+C:\!Results\IT HW\C#\Homeworks\third\HW-Seminar-3-Task-19\bin\Debug\net8.0\HW-Seminar-3-Task-19.pdb
+C:\!Results\IT HW\C#\Homeworks\third\HW-Seminar-3-Task-19\obj\Debug\net8.0\HW-Seminar-3-Task-19.GeneratedMSBuildEditorConfig.editorconfig
+C:\!Results\IT HW\C#\Homeworks\third\HW-Seminar-3-Task-19\obj\Debug\net8.0\HW-Seminar-3-Task-19.AssemblyInfoInputs.cache
+C:\!Results\IT HW\C#\Homeworks\third\HW-Seminar-3-Task-19\obj\Debug\net8.0\HW-Seminar-3-Task-19.AssemblyInfo.cs
+C:\!Results\IT HW\C#\Homeworks\third\HW-Seminar-3-Task-19\obj\Debug\net8.0\HW-Seminar-3-Task-19.csproj.CoreCompileInputs.cache
+C:\!Results\IT HW\C#\Homeworks\third\HW-Seminar-3-Task-19\obj\Debug\net8.0\HW-Seminar-3-Task-19.sourcelink.json
+C:\!Results\IT HW\C#\Homeworks\third\HW-Seminar-3-Task-19\obj\Debug\net8.0\HW-Seminar-3-Task-19.dll
+C:\!Results\IT HW\C#\Homeworks\third\HW-Seminar-3-Task-19\obj\Debug\net8.0\refint\HW-Seminar-3-Task-19.dll
+C:\!Results\IT HW\C#\Homeworks\third\HW-Seminar-3-Task-19\obj\Debug\net8.0\HW-Seminar-3-Task-19.pdb
+C:\!Results\IT HW\C#\Homeworks\third\HW-Seminar-3-Task-19\obj\Debug\net8.0\HW-Seminar-3-Task-19.genruntimeconfig.cache
+C:\!Results\IT HW\C#\Homeworks\third\HW-Seminar-3-Task-19\obj\Debug\net8.0\ref\HW-Seminar-3-Task-19.dll
